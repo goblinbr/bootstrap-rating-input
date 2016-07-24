@@ -1,8 +1,8 @@
 {
-  "name": "bootstrap-rating-input",
+  "name": "bootstrap-rating-input-nj",
   "version": "0.4.0",
   "license": "MIT",
-  "repository": "https://github.com/javiertoledo/bootstrap-rating-input.git",
+  "repository": "https://github.com/goblinbr/bootstrap-rating-input-nj.git",
   "main": "src/bootstrap-rating-input.js",
   "devDependencies": {
     "grunt": "^0.4.2",
